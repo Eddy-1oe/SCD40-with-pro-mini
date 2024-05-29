@@ -6,5 +6,5 @@
 #and Humidity in percent) which controls three leds and a buzzer depending on the threshold
 #value set in the code. Ldr also determines whether a fourth led should be on or of depending 
 #on the light intensity and all these data are transmitted to another controller via Bluetooth.
-# The file label HELMET is usedto interface the project using labview.
+# The file label HELMET is used to interface the project using labview.
 # note: used the arduino code labelled SLAVE if you only want to interface with the arduino ide and slaveupd when you want to use Labview on the receiver side.
